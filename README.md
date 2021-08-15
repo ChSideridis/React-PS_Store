@@ -1,1 +1,1 @@
-# React-PS_Store  React.js, Commerce.js, Stripe
+# A React app using React.js, Commerce.js, Stripe
